@@ -1,0 +1,5 @@
+-r:Assets/Plugins/Google.Apis.Sheets.v4.dll
+-r:Assets/Plugins/Google.Apis.Core.dll
+-r:Assets/Plugins/Google.Apis.Auth.dll
+-r:Assets/Plugins/Google.Apis.dll
+-r:Assets/Plugins/Newtonsoft.Json.dll
