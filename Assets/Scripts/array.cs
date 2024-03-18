@@ -11,6 +11,8 @@ public class array : MonoBehaviour
     // this whole file might be useless, but ill keep it for now
     public int[] IDs;
     public int ready = 0;
+    public string lastClicked;
+    public int allOut = 0; // some way to keep track of paintings loading
     int maxID;
     JSONNode o;
 

@@ -7,6 +7,7 @@ public class mediaManager : MonoBehaviour
     // Start is called before the first frame update
    
    public string mediaType;
+   public bool allDone = false;
    
     void Start()
     {

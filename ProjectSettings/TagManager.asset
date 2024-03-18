@@ -7,6 +7,9 @@ TagManager:
   - CinemachineTarget
   - Scripts
   - ArrayManager
+  - popup
+  - mouse
+  - Image
   layers:
   - Default
   - TransparentFX
